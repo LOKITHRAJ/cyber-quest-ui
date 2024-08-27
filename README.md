@@ -1,3 +1,9 @@
+# Home Page
+![alt text](image-1.png)
+
+# Game Page
+![alt text](image.png)
+
 # CyberQuest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
